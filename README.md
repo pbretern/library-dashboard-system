@@ -49,5 +49,5 @@ Testdaten werden in Zukunft sukzessive hinzugefügt.
 [ ] Testdaten\
 [ ] Code Refactoring\
 [ ] Python Package Building\
-[ ] Tests mit pytest oder unitests
+[ ] Tests mit pytest oder unitests\
 [ ] Open Source Lizenz
