@@ -51,3 +51,8 @@ Testdaten werden in Zukunft sukzessive hinzugefügt.
 [ ] Python Package Building\
 [ ] Tests mit pytest oder unitests\
 [ ] Open Source Lizenz
+
+
+# Autor
+
+Peter Breternitz
