@@ -55,4 +55,4 @@ Testdaten werden in Zukunft sukzessive hinzugefügt.
 
 # Autor
 
-Peter Breternitz
+Copyright © 2021 Peter Breternitz
