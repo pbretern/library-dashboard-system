@@ -44,6 +44,10 @@ Diese Anweisung startet den Webserver und die Adresse kann durch einen gängigen
 # Bemerkungen
 Testdaten werden in Zukunft sukzessive hinzugefügt.
 
+# Masterarbeit
+Die dazugehörige Masterarbeitt ist hier zu finden:
+https://doi.org/10.15771/MA_2021_1
+
 
 # Roadmap
 [ ] Testdaten\
